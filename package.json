@@ -1,0 +1,26 @@
+{
+  "name": "at-sms-demo-sender-id",
+  "version": "0.0.1",
+  "description": "Simple demo to show how to send messages in node.js through Africa's Talking",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node -r esm src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tawn33y/at-sms-demo-sender-id.git"
+  },
+  "keywords": [],
+  "author": "Tony (https://twitter.com/tawn33y)",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/tawn33y/at-sms-demo-sender-id/issues"
+  },
+  "homepage": "https://github.com/tawn33y/at-sms-demo-sender-id#readme",
+  "devDependencies": {
+    "esm": "^3.2.25"
+  },
+  "dependencies": {
+    "africastalking": "^0.4.5"
+  }
+}
