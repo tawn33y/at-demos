@@ -32,7 +32,7 @@ npm start
 
 ## Resources
 
-### 1) How to get an API key/Sender ID, and launch the simulator
+### How to get an API key/Sender ID, and launch the simulator
 
 - Create an account on Africa's Talking [by clicking here](https://africastalking.com/).
 - Go to your `sandbox` app.
@@ -48,3 +48,7 @@ npm start
 #### c) Open the Simulator - [link](https://simulator.africastalking.com:1517/)
 
 - On the sidebar, go to `Launch Simulator`.
+
+## Pull Requests
+
+Any and all PRs are open.
