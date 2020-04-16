@@ -8,20 +8,20 @@ Simple demo to show how to send messages in node.js through Africa's Talking.
 
 ## Pre-requisites
 
-- node.js v8+ : [Click here to download here](https://nodejs.org/en/download/).
+- node.js v8+ : [Click here to download](https://nodejs.org/en/download/).
 
 ## Getting Started
 
 ```bash
-# 1. get an API key from AT (more instructions below under Resources)
+# 1. get an API key from AT (for more instructions, see below under 'Resources' section)
 
 # 2. open the simulator: https://simulator.africastalking.com:1517/
 
-# 3. open 'src/index.js' and update the API key and phone number accordingly
-
-# 4. clone the repo and cd into it
+# 3. clone the repo and cd into it
 git clone https://github.com/tawn33y/at-sms-demo-sender-id.git
 cd at-sms-demo-sender-id
+
+# 4. open 'src/index.js' and update the API key and phone number accordingly
 
 # 5. install packages
 npm i
