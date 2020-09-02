@@ -1,0 +1,26 @@
+{
+  "name": "sms-sender-id",
+  "version": "0.0.1",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node -r esm src/index.js"
+  },
+  "dependencies": {
+    "africastalking": "^0.5.2"
+  },
+  "devDependencies": {
+    "esm": "^3.2.25"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tawn33y/at-demos.git"
+  },
+  "keywords": [],
+  "author": "Tony (https://twitter.com/tawn33y)",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/tawn33y/at-demos/issues"
+  },
+  "homepage": "https://github.com/tawn33y/at-demos#readme"
+}
