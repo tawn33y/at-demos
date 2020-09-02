@@ -27,7 +27,7 @@ A simple demo to show how to use 2-way shortcodes in node.js through Africa's Ta
 
 # 5. open the simulator: https://simulator.africastalking.com:1517
 
-# 6. open 'src/sendMessage.js' and update the API key and phone number accordingly
+# 6. open 'src/constants.js' and update the API key and phone number accordingly
 
 # 7. install packages
 npm i

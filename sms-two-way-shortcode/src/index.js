@@ -1,7 +1,7 @@
 import express from 'express';
 import bodyParser from 'body-parser';
 import { sendMessage } from './sendMessage';
-import { getWeather } from '../getWeather';
+import { getWeather } from './getWeather';
 
 const app = express();
 const port = 3000;
@@ -28,6 +28,8 @@ app.post('/webhook/sms', (req, res) => {
   }
 
   sendMessage(from, msg);
+
+  res.send('OK');
 });
 
 app.listen(port, () => {

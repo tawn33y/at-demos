@@ -23,7 +23,7 @@ A simple demo to show how to send messages in node.js through Africa's Talking.
 
 # 3. open the simulator: https://simulator.africastalking.com:1517/
 
-# 4. open 'src/index.js' and update the API key and phone number accordingly
+# 4. open 'src/constants.js' and update the API key and phone number accordingly
 
 # 5. install packages
 npm i
