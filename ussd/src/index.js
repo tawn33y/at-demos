@@ -3,6 +3,7 @@ import bodyParser from 'body-parser';
 import { ussdRouter } from 'ussd-router';
 
 const app = express();
+const port = 3000;
 
 app.use(bodyParser.urlencoded({ extended: false }));
 app.use(bodyParser.json());
@@ -42,6 +43,6 @@ app.post('/webhook/ussd', (req, res) => {
   res.send(msg);
 });
 
-app.listen(3000, () => {
-  console.log('Running...');
+app.listen(port, () => {
+  console.log(`[✔️] Server running on port ${port}`);
 });

@@ -6,7 +6,7 @@ A simple demo to show how to send messages in node.js through Africa's Talking.
 
 [![Watch Tutorial on YouTube](assets/images/youtube.png?raw=true)](https://www.youtube.com/watch?v=DW8Wqnc5_I8)
 
-## End Product (screenshots)
+## End Product (screenshot)
 
 ![screenshot](assets/images/screenshot.png?raw=true)
 
@@ -34,12 +34,7 @@ npm start
 
 ## Resources
 
-### Access the `sandbox` app - [link](https://account.africastalking.com/apps/sandbox)
-
-- Create an account on Africa's Talking [by clicking here](https://account.africastalking.com/).
-- Go to your `sandbox` app.
-
-### Get an API key - [link](https://account.africastalking.com/apps/sandbox/settings/key)
+### Create an API key - [link](https://account.africastalking.com/apps/sandbox/settings/key)
 
 - On the sidebar, go to `Settings > API Key`.
 

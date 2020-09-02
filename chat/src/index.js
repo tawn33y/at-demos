@@ -2,7 +2,7 @@ import { Client } from 'africastalking-ts';
 
 const apiKey = 'your-api-key';
 const username = 'your-username';
-const productId = 'your-product';
+const productId = 'your-product-id';
 const channel = 'whatsapp';
 const from = '+254712345678'; // your whatsapp channel number
 const to = '+254712345678'; // the customer's phone number
