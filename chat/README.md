@@ -1,4 +1,4 @@
-# at-chat-demo
+# chat
 
 A simple demo to show how to use Chat APIs (Whatsapp, Telegram, etc) in node.js via Africa's Talking.
 

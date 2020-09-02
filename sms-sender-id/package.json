@@ -1,7 +1,7 @@
 {
   "name": "sms-sender-id",
   "version": "0.0.1",
-  "description": "Simple demo to show how to send messages in node.js through Africa's Talking",
+  "description": "",
   "main": "src/index.js",
   "scripts": {
     "start": "node -r esm src/index.js"

@@ -1,6 +1,6 @@
 # sms-sender-id
 
-Simple demo to show how to send messages in node.js through Africa's Talking.
+A simple demo to show how to send messages in node.js through Africa's Talking.
 
 ## Watch Tutorial on YouTube
 
@@ -17,16 +17,18 @@ Simple demo to show how to send messages in node.js through Africa's Talking.
 ## Getting Started
 
 ```bash
-# 1. get an API key from AT (for more instructions, see below under 'Resources' section)
+# 1. get an API key from AT (for help, see below under 'Resources' section)
 
-# 2. open the simulator: https://simulator.africastalking.com:1517/
+# 2. Create your sender id in the AT dashboard (for help, see below under 'Resources' section)
 
-# 3. open 'src/index.js' and update the API key and phone number accordingly
+# 3. open the simulator: https://simulator.africastalking.com:1517/
 
-# 4. install packages
+# 4. open 'src/index.js' and update the API key and phone number accordingly
+
+# 5. install packages
 npm i
 
-# 5. run (send message)
+# 6. run
 npm start
 ```
 
@@ -34,7 +36,7 @@ npm start
 
 ### Access the `sandbox` app - [link](https://account.africastalking.com/apps/sandbox)
 
-- Create an account on Africa's Talking [by clicking here](https://africastalking.com/).
+- Create an account on Africa's Talking [by clicking here](https://account.africastalking.com/).
 - Go to your `sandbox` app.
 
 ### Get an API key - [link](https://account.africastalking.com/apps/sandbox/settings/key)
