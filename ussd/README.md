@@ -2,6 +2,12 @@
 
 A simple demo to show how to use USSD in node.js through Africa's Talking.
 
+## End Product (screenshots)
+
+![screenshot 1](assets/images/screenshot%201.png?raw=true)
+
+![screenshot 2](assets/images/screenshot%202.png?raw=true)
+
 ## Pre-requisites
 
 - node.js v8+ : [Click here to download](https://nodejs.org/en/download/).

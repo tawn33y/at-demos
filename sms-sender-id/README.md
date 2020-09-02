@@ -4,11 +4,11 @@ A simple demo to show how to send messages in node.js through Africa's Talking.
 
 ## Watch Tutorial on YouTube
 
-[![Watch Tutorial on YouTube](youtube.png?raw=true)](https://www.youtube.com/watch?v=DW8Wqnc5_I8)
+[![Watch Tutorial on YouTube](assets/images/youtube.png?raw=true)](https://www.youtube.com/watch?v=DW8Wqnc5_I8)
 
-## End Product (screenshot)
+## End Product (screenshots)
 
-![screenshot](screenshot.png?raw=true)
+![screenshot](assets/images/screenshot.png?raw=true)
 
 ## Pre-requisites
 
