@@ -1,6 +1,6 @@
 # at-demos
 
-A collection of demos to demonstrate how to use SMS, and in node.js via Africa's Talking.
+A collection of demos to demonstrate how to use SMS and USSD in node.js via Africa's Talking.
 
 ## Contents
 
